@@ -1,0 +1,12 @@
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\bin\Debug\SaladeChat.exe.config
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\bin\Debug\SaladeChat.exe
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\bin\Debug\SaladeChat.pdb
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\obj\Debug\SaladeChat.csprojResolveAssemblyReference.cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\obj\Debug\SaladeChat.Form1.resources
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\obj\Debug\SaladeChat.Properties.Resources.resources
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\obj\Debug\SaladeChat.csproj.GenerateResource.Cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\obj\Debug\SaladeChat.exe
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\SaladeChat\obj\Debug\SaladeChat.pdb
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat Johana\SaladeChat\bin\Debug\SaladeChat.exe.config
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat Johana\SaladeChat\obj\Debug\SaladeChat.exe
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat Johana\SaladeChat\obj\Debug\SaladeChat.pdb

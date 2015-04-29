@@ -1,0 +1,5 @@
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\Chat\bin\Chat.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\Chat\bin\Chat.pdb
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\Chat\Chat\obj\Debug\Chat.pdb
